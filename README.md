@@ -48,12 +48,14 @@ Criar um programa que recebe dois valores inteiros fornecidos pelo usuário e ef
 
 2. Para compilar cada arquivo, utilize o comando:
 
+```bash
 gcc main.c -o main
+```
 
 3. Para executar o programa compilado:
-
+```bash
 ./main
-
+```
 ## Requisitos
 
 Compilador C: GCC, Clang ou outro compilador de C.
